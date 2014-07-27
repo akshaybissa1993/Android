@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 /* Tera bhagwan hi bhala kare
  	mere main kahan jaye hai
- 	
+ 	safdsfsfs
  	Sutho aaye babu chaa pyo kareen.....*/
 public class MainActivity extends Activity {
 
