@@ -4,7 +4,9 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 /* Tera bhagwan hi bhala kare
- 	mere main kahan jaye hai*/
+ 	mere main kahan jaye hai
+ 	
+ 	Sutho aaye babu chaa pyo kareen.....*/
 public class MainActivity extends Activity {
 
 	@Override
