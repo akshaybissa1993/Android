@@ -3,7 +3,8 @@ package com.a;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-/* Tera bhagwan hi bhala kare*/
+/* Tera bhagwan hi bhala kare
+ 	mere main kahan jaye hai*/
 public class MainActivity extends Activity {
 
 	@Override
